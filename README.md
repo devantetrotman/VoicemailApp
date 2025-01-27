@@ -4,7 +4,7 @@ This application allows the user to dial a number and emulate a call. If the num
 
 There are 3 screens associated with this application: the Contacts Screen, Keypad Screen, and Call History Screen. 
 
-## Contact Screen
+## Contacts Screen
 
 This screen contains a list of the saved contacts within the application. Each contact will display the contact name, number, and a call button that can be pressed to instatly dial the number for that contact.
 
