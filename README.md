@@ -1,6 +1,6 @@
 # Voicemail Application
 
-![Voicemail Application Screenshot](images\VoicemailApplicationScreenshot.png)
+![Voicemail Application Screenshot](images/VoicemailApplicationScreenshot.png)
 
 This application allows the user to dial a number and emulate a call. If the number does not match a number saved in the contact list, the call will fail stating the number is not in service. If the number does match a contact number, the call will be successful emulating a ringing noise and playing the voicemail associated with that contact. 
 
